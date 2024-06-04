@@ -1,0 +1,16 @@
+{
+  "name": "WebRTC_demo",
+  "version": "1.0.0",
+  "description": "This is the demo application which shows how WebRTC works.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Suraj Karki",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
